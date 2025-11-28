@@ -1,8 +1,5 @@
 # PhysX++
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B20)
-[![CMake](https://img.shields.io/badge/CMake-3.20+-green.svg)](https://cmake.org/)
 
 A high-performance, modern C++20 physics simulation library designed for game development, robotics, and computer graphics applications. Features advanced rigid body dynamics, constraint systems, and soft body simulation with a focus on numerical stability and performance.
 
@@ -313,24 +310,3 @@ If you use PhysX++ in your research or project, please cite:
   title = {{PhysX++}: High-Performance C++20 Physics Simulation Library},
   url = {https://github.com/Anuj0x/physx-plus-plus},
   year = {2024}
-}
-```
-
----
-
-## Alternative Project Names & Descriptions
-
-### 1. **Nova Physics**
-*A cutting-edge C++20 physics engine combining rigid body dynamics, soft body simulation, and advanced constraint solving for high-performance applications in gaming, robotics, and CGI.*
-
-### 2. **Aether Dynamics**
-*Modern physics simulation framework featuring stable numerical integration, multi-threaded collision detection, and GPU-accelerated solvers for real-time applications.*
-
-### 3. **Quantum PhysX**
-*Next-generation physics library leveraging C++20 features for unparalleled performance in rigid body dynamics, deformable objects, and complex constraint systems.*
-
-### 4. **Titan Physics**
-*Enterprise-grade C++ physics simulation toolkit designed for demanding applications requiring numerical stability, performance optimization, and extensive customization.*
-
-### 5. **Vortex Engine**
-*High-performance physics simulation engine with advanced rigid body dynamics, soft body deformation, and constraint-based modeling for games, simulations, and robotics.*
